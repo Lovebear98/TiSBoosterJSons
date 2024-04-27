@@ -1,0 +1,73 @@
+{
+  "${modID}:PotionID": {
+    "NAME": "Some Kind of Potion",
+    "DESCRIPTIONS": [
+      "Little",
+      " pieces ",
+      "that get put together",
+      " into a description.",
+      " Exactly how depends on the potion, and you can set it up however you want."
+    ]
+  },
+  "${modID}:HunterJuice": {
+    "NAME": "Hunter's Bow Oil",
+    "DESCRIPTIONS": [
+      "ALL players #yBonepile #b",
+      ".",
+      "Bonepile",
+      "A triggered effect based on your #gactive #ySkull. NL Defaults to #b2 #yBlock."
+    ]
+  },
+  "${modID}:IgnitionFlask": {
+    "NAME": "Ignition Flask",
+    "DESCRIPTIONS": [
+      "Deal #b",
+      " damage to an enemy, or apply #b",
+      " #yIgnition to an ally. NL Apply #b",
+      "Ignition",
+      "When receiving #yAttack damage this turn, deal damage back.",
+      "Burn",
+      "Unblocked #yNon-Attack damage against the owner will be doubled once.",
+      " #yBurn."
+    ]
+  },
+  "${modID}:NeurolepsisFlask": {
+    "NAME": "Neuroleptic Flask",
+    "DESCRIPTIONS": [
+      "Deal #b",
+      " damage to an enemy, or apply #b",
+      " #yNeurolepsis to an ally. NL Apply #b",
+      "Neuroleptics",
+      "When attacking, inflict #yStatic.",
+      "Static",
+      "Taking damage will cause extra damage and pass half the effect to other #rmonsters.",
+      " #yStatic."
+    ]
+  },
+  "${modID}:NitrogenFlask": {
+    "NAME": "Nitrogen Flask",
+    "DESCRIPTIONS": [
+      "Deal #b",
+      " damage to an enemy, or apply #b",
+      " #yNitrogen to an ally. NL Apply #b",
+      "Nitrogen",
+      "When attacking, gain Block.",
+      "Frozen",
+      "Decrease incoming and outgoing damage by #b1.",
+      " #yFrozen."
+    ]
+  },
+  "${modID}:PollutantFlask": {
+    "NAME": "Pollutant Flask",
+    "DESCRIPTIONS": [
+      "Deal #b",
+      " damage to an enemy, or apply #b",
+      " #yPollutant to an ally. NL Apply #b",
+      "Pollutant",
+      "When attacking, inflict #yPoison on ALL enemies",
+      "Poison",
+      " At the beginning of its turn, the target loses X HP and 1 stack of poison.",
+      " #yPoison."
+    ]
+  }
+}

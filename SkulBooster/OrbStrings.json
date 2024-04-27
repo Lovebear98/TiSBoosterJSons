@@ -1,0 +1,117 @@
+{
+  "${modID}:FortressOrb": {
+    "NAME": "Fortress",
+    "DESCRIPTION": [
+      "#yPassive: Each time you gain #yBlock, ALL allies also gain #b",
+      " #yBlock. unaffected by #yFocus. NL ",
+      " NL #yEvoke: Gain #b",
+      " #yBlock."
+    ]
+  },
+  "${modID}:Meteor": {
+    "NAME": "Meteor",
+    "DESCRIPTION": [
+      "#yEvoke: Deal #b",
+      " damage #b",
+      " times.",
+      ""
+    ]
+  },
+  "${modID}:ArcherComrade": {
+    "NAME": "Comrade: Archer",
+    "DESCRIPTION": [
+      "#yOrder: ALL players gain #b",
+      " #yVigor. NL NL #yEvoke: Gain #b",
+      "#pVeteran NL ",
+      " #yRanks, unaffected by #yFocus."
+    ]
+  },
+  "${modID}:KnightComrade": {
+    "NAME": "Comrade: Knight",
+    "DESCRIPTION": [
+      "#yOrder: ALL players gain #b",
+      " #yBlock. NL NL #yEvoke: Gain #b",
+      "#pVeteran NL ",
+      " #yRanks, unaffected by #yFocus."
+    ]
+  },
+  "${modID}:AssassinComrade": {
+    "NAME": "Comrade: Assassin",
+    "DESCRIPTION": [
+      "#yOrder: ALL players deal #b",
+      " damage. NL NL #yEvoke: Gain #b",
+      "#pVeteran NL ",
+      " #yRanks, unaffected by #yFocus."
+    ]
+  },
+  "${modID}:RecruitComrade": {
+    "NAME": "Comrade: Recruit",
+    "DESCRIPTION": [
+      "#yOrder: This recruit will leave to carry the next #yOrder to the #yComrades of other players.",
+      " NL NL #yEvoke: Gain #b",
+      "#pVeteran NL ",
+      " #yRanks, unaffected by #yFocus."
+    ]
+  },
+  "${modID}:Othello": {
+    "NAME": "Othello",
+    "DESCRIPTION": [
+      "#yEvoke: Deal #b",
+      " damage per #b",
+      " #yLament to a random enemy. ( #b",
+      " ). NL NL Will #yEvoke in #b",
+      " turn",
+      "s",
+      ", increased by #b1 when an enemy #rdies. Enemies #rdying also decreases the #yLament required to deal damage.",
+      ""
+    ]
+  },
+  "${modID}:Hamlet": {
+    "NAME": "Hamlet",
+    "DESCRIPTION": [
+      "At the end of the turn, deal #b",
+      " damage per #b",
+      " #yLament to a random enemy.  ( #b",
+      " ). NL NL Will #yEvoke in #b",
+      " turn",
+      "s",
+      ", increased by #b1 when an enemy #rdies.",
+      ""
+    ]
+  },
+  "${modID}:KingLear": {
+    "NAME": "King Lear",
+    "DESCRIPTION": [
+      "At the end of the turn, gain #b",
+      " #yVigor per #b",
+      " #yLament  ( #b",
+      " ). NL NL Will #yEvoke in #b",
+      " turn",
+      "s",
+      ", increased by #b1 when an enemy #rdies.",
+      ""
+    ]
+  },
+  "${modID}:Macbeth": {
+    "NAME": "Macbeth",
+    "DESCRIPTION": [
+      "#yEvoke: Deal #b",
+      " damage per #b",
+      " #yLament to ALL enemies  ( #b",
+      " ). NL NL Will #yEvoke in #b",
+      " turn",
+      "s",
+      ", increased by #b1 when an enemy #rdies.",
+      ""
+    ]
+  },
+  "${modID}:GenieOrb": {
+    "NAME": "Genie",
+    "DESCRIPTION": [
+      "#rReplace your #yAttack damage with #b",
+      " #yAttack damage, unaffected by #yFocus.  NL NL Has #g",
+      " #y HP. NL NL At the end of combat or when #yEvoked: Recover the #b",
+      " #gHP that created this #yGenie."
+    ]
+  }
+}

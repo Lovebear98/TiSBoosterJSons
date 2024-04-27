@@ -1,0 +1,8 @@
+{
+  "${modID}:Combustion": {
+    "NAME": "Combustion",
+    "DESCRIPTION": [
+      "Negate #yLiving #yArmor's attack reduction. Your next card's #yType causes different effects. NL NL #yAttacks randomly repeat their damage as non-attack damage. NL #ySkills gain [E] and #b25 #yFlame #ySpirits. NL #yPowers enter #yCalm and draw a card."
+    ]
+  }
+}

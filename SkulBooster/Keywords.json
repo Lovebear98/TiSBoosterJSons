@@ -1,0 +1,344 @@
+[
+  {
+    "PROPER_NAME": "Masterpiece",
+    "NAMES": [
+      "Masterpiece",
+      "masterpiece"
+    ],
+    "DESCRIPTION": "#g3: Gain 1 #yStrength, #yDexterity, and #yFocus. NL #g5: Unlock the #yMasterpiece effect of all current sets."
+  },
+  {
+    "PROPER_NAME": "Omen",
+    "NAMES": [
+      "Omen",
+      "omen"
+    ],
+    "DESCRIPTION": "#r1: Take #b50% more damage. NL #r2: Take #b100% more damage. NL #r3: Take #b150% more damage."
+  },
+  {
+    "PROPER_NAME": "Courage",
+    "NAMES": [
+      "Courage",
+      "courage"
+    ],
+    "DESCRIPTION": "#p3: Gain 1 #yStrength. NL #p5: Gain 2 #yStrength. NL NL [#ff8000]Masterpiece NL [#ff8000]8: [#ff8000]Gain [#ff8000]4 [#ff8000]Strength."
+  },
+
+  {
+    "PROPER_NAME": "Absolute Zero",
+    "NAMES": [
+      "Absolute Zero",
+      "absolute_zero"
+    ],
+    "DESCRIPTION":"#g3: Once every two turns, #yEvoking channels a #yFrost orb. NL #g5: At the start of your turn, #yEvoke an orb. NL #gMasterpiece #g6: Gain #b1 #yFocus."
+  },
+  {
+    "PROPER_NAME": "Artifact",
+    "NAMES": [
+      "Artifact",
+      "artifact"
+    ],
+    "DESCRIPTION":"  #g2: #yChannel a #yMeteor at the start of combat. NL #g5: #yChannel a #yMeteor every 3 turns. NL #gMasterpiece #g6: Gain #b1 #yFocus."
+  },
+  {
+    "PROPER_NAME": "Bone",
+    "NAMES": [
+      "Bone",
+      "bone"
+    ],
+    "DESCRIPTION":"#g3: Gain #yBuffer at the start of combat."
+  },
+  {
+    "PROPER_NAME": "Excessive Bleeding",
+    "NAMES": [
+      "Excessive Bleeding",
+      "Excessive_Bleeding",
+      "excessive_bleeding"
+    ],
+    "DESCRIPTION":"#g3: Your first attack each turn #yWounds the target for half its damage. NL #g4: Your first attack each turn #yWounds the target for full damage. NL #gMasterpiece #g6: Your #yWounding attacks deal #b20% more damage."
+  },
+  {
+    "PROPER_NAME": "Fortress",
+    "NAMES": [
+      "Fortress",
+      "fortress"
+    ],
+    "DESCRIPTION":"#g2: Channel a #yFortress at the start of each turn. NL #g5: Channel #b2 #yFortress at the start of each turn. NL #gMasterpiece #g6: Gain #b2 #yDexterity."
+  },
+  {
+    "PROPER_NAME": "Antique",
+    "NAMES": [
+      "Antique",
+      "antique"
+    ],
+    "DESCRIPTION":"#g2: Until you take unblocked damage, heal ALL players for #b2 HP at the end of your turn. NL #g5: The heal also provides #b3 #yVigor. NL #gMasterpiece #g6: The heal grants #b3 more #yVigor and #b3 #yBlock."
+  },
+  {
+    "PROPER_NAME": "Revenge",
+    "NAMES": [
+      "Revenge",
+      "revenge"
+    ],
+    "DESCRIPTION":"#g3: Inflict #b25% of the first damage you take each turn to the attacker as #yRevenge. NL #g5: The #yRevenge applied becomes #b50%. NL #gMasterpiece #g6: Also gain [E] the turn after you take unblocked damage."
+  },
+  {
+    "PROPER_NAME": "Sin",
+    "NAMES": [
+      "Sin",
+      "sin"
+    ],
+    "DESCRIPTION":"#g1: Whenever you would gain #yStrength or #yDexterity in combat, gain the other instead."
+  },
+  {
+    "PROPER_NAME": "Item",
+    "NAMES": [
+      "Set Effect",
+      "Set_Effect",
+      "set_effect",
+      "set effect",
+      "Item",
+      "item",
+      "Items",
+      "items"
+    ],
+    "DESCRIPTION": "#gIncreases a #ySet #yEffect on pickup, and #rdecreases it when removed. The last effect of each #ySet is only available if you complete the #yMasterpiece set. Starts combat #yExhausted."
+  },
+  {
+    "PROPER_NAME": "Meteor",
+    "NAMES": [
+      "Meteor",
+      "meteor",
+      "Meteors",
+      "meteors"
+    ],
+    "DESCRIPTION": "#yEvoke: Randomly deal #b1 damage #b1 time."
+  },
+  {
+    "PROPER_NAME": "Shallow Grave",
+    "NAMES": [
+      "Shallow Grave",
+      "Shallow_Grave",
+      "Shallow_grave",
+      "shallow_grave",
+      "shallow_Grave"
+    ],
+    "DESCRIPTION": "An ally #yRevives at #b1 #gHP. At the end of combat or after taking enough damage, they #rdie. The source of the effect will take ALL damage they would have taken."
+  },
+  {
+    "PROPER_NAME": "Death Shroud",
+    "NAMES": [
+      "Death Shroud",
+      "Death_Shroud",
+      "Death_shroud",
+      "death_shroud",
+      "death_Shroud"
+    ],
+    "DESCRIPTION": "The source will take some of the damage the owner would have taken. If they're dead, they #yRevive with #b2 #yShallow #yGrave instead."
+  },
+  {
+    "PROPER_NAME": "Soul",
+    "NAMES": [
+      "Souls",
+      "souls",
+      "Soul",
+      "soul"
+    ],
+    "DESCRIPTION": "#yFatal #yAttacks by #pGrim #pReaper or allies with their #yShroud collect #b1 #pSoul. During combat only, increase your #gMax #gHP (but #rnot current HP) equal to twice your #pSouls."
+  },
+  {
+    "PROPER_NAME": "Corpse Explosion",
+    "NAMES": [
+      "Corpse Explosion",
+      "Corpse_Explosion",
+      "Corpse_explosion",
+      "corpse_explosion",
+      "corpse_Explosion"
+    ],
+    "DESCRIPTION": "When the target dies, deal damage equal to its #yMax #yHP to ALL enemies."
+  },
+  {
+    "PROPER_NAME": "Half-Dead",
+    "NAMES": [
+      "Half-Dead",
+      "Half-dead",
+      "half-Dead",
+      "half-dead"
+    ],
+    "DESCRIPTION": "Any player currently revived in a zombie/ghost state is #yHalf-Dead."
+  },
+  {
+    "PROPER_NAME": "Mana",
+    "NAMES": [
+      "Mana",
+      "mana"
+    ],
+    "DESCRIPTION": "At #b100 #yMana, #yUnknown #yKing will #pReassemble #pHis #pSword for the rest of that combat."
+  },
+  {
+    "PROPER_NAME": "Flame Spirits",
+    "NAMES": [
+      "Flame Spirits",
+      "Flame Spirit",
+      "Flame_Spirit",
+      "flame_Spirit",
+      "Flame_spirit",
+      "flame_spirit",
+      "Flame_Spirits",
+      "flame_Spirits",
+      "Flame_spirits",
+      "flame_spirits"
+    ],
+    "DESCRIPTION": "At #b100 #yFlame #ySpirits, enter #yCombustion. After #yLiving #yArmor's swap, if ANY player is in #yCombustion ALL players will enter #yCombustion."
+  },
+  {
+    "PROPER_NAME": "Combustion",
+    "NAMES": [
+      "Combustion",
+      "combustion"
+    ],
+    "DESCRIPTION": "Exit this #yStance after playing a card, inflicting #yBurn randomly and another effect based on its type: NL NL #yAttacks deal their damage randomly as non-attack damage. NL #ySkills gain [E] and #b25 #yFlame #ySpirits. NL #yPowers enter #yCalm and draw a card."
+  },
+  {
+    "PROPER_NAME": "Stomp",
+    "NAMES": [
+      "Stomp",
+      "stomp"
+    ],
+    "DESCRIPTION": "Deal #b2 damage to ALL characters. #yUnblocked damage on enemies becomes #yBlock while #yUnblocked damage on allies becomes #yVigor."
+  },
+  {
+    "PROPER_NAME": "Veteran",
+    "NAMES": [
+      "Veteran",
+      "veteran"
+    ],
+    "DESCRIPTION": "#yComrades that have been #yOrdered #b3 or more times."
+  },
+  {
+    "PROPER_NAME": "Rank",
+    "NAMES": [
+      "Rank",
+      "ranks",
+      "rank",
+      "ranking",
+      "rankings",
+      "ranked"
+    ],
+    "DESCRIPTION": "At #b8 #yRanks, add a #yComrade #ySystem to your hand."
+  },
+  {
+    "PROPER_NAME": "Comrade",
+    "NAMES": [
+      "Comrade",
+      "comrade",
+      "comrades"
+    ],
+    "DESCRIPTION": "Orbs that are only triggered by #yOrders. When #yOrdered, they gain #b+1 to stats before becoming #pVeteran at #b3 times."
+  },
+  {
+    "PROPER_NAME": "Order",
+    "NAMES": [
+      "Order",
+      "order",
+      "orders",
+      "ordering",
+      "ordered"
+    ],
+    "DESCRIPTION": "Trigger the #yOrder effect of all of your current #yComrades."
+  },
+  {
+    "PROPER_NAME": "Concoct",
+    "NAMES": [
+      "Concoct",
+      "concoct",
+      "concoction",
+      "concocted",
+      "concocting",
+      "concocts"
+    ],
+    "DESCRIPTION": "At #b10 #yConcoct, create an #yExperimentation in your hand."
+  },
+  {
+    "PROPER_NAME": "Flask",
+    "NAMES": [
+      "Flask",
+      "flask",
+      "flasks"
+    ],
+    "DESCRIPTION": "#yPotions that can be used on allies or enemies to varying effects."
+  },
+  {
+    "PROPER_NAME": "Gravestone",
+    "NAMES": [
+      "Gravestone",
+      "gravestone",
+      "gravestones",
+      "grave",
+      "graves"
+    ],
+    "DESCRIPTION": "Transfers a portion of an enemy's HP to a new enemy. That enemy cannot die until the #yGrave dies."
+  },
+  {
+    "PROPER_NAME": "Great Tragedy",
+    "NAMES": [
+      "Great Tragedy",
+      "Great_Tragedy",
+      "great_tragedy",
+      "great_tragedies"
+    ],
+    "DESCRIPTION": "#yOrbs with limited lifespans extended by enemy deaths. Their effects scale #rexclusively based on your #yLament."
+  },
+  {
+    "PROPER_NAME": "Lament",
+    "NAMES": [
+      "Lament",
+      "lament",
+      "laments"
+    ],
+    "DESCRIPTION": "Dictates the effects of your #yGreat #yTragedies, decays by half at the end of the turn if no enemies died recently."
+  },
+  {
+    "PROPER_NAME": "Genie",
+    "NAMES": [
+      "Genie",
+      "genie",
+      "genies"
+    ],
+    "DESCRIPTION": "#rReplaces your #yAttack damage with #b1 #yAttack damage, unaffacted by #yFocus."
+  },
+  {
+    "PROPER_NAME": "Fading",
+    "NAMES": [
+      "Fading",
+      "fading"
+    ],
+    "DESCRIPTION": "#yDead, #yShrouded, below #b10% HP, at #b1 HP, or below #b13 #yMaximum HP."
+  },
+  {
+    "PROPER_NAME": "Shroud",
+    "NAMES": [
+      "Shroud",
+      "shroud",
+      "shrouded",
+      "shrouds",
+      "shrouding"
+    ],
+    "DESCRIPTION": "The #yShroud's owner is revived and immune to damage. The source of #yShroud will take #b100% more damage per #yShroud they provide, but receive those targets' #yBlock.."
+  },
+  {
+    "PROPER_NAME": "Embrace",
+    "NAMES": [
+      "Embrace",
+      "embrace"
+    ],
+    "DESCRIPTION": "At #b15 #yEmbrace, add a #ySoul #yContract to ALL allies' hands."
+  },
+  {
+    "PROPER_NAME": "Shogun",
+    "NAMES": [
+      "Shogun",
+      "shogun"
+    ],
+    "DESCRIPTION": "The #yhighest #yHP enemy in the room, they'll be marked with a #rblade above their intent."
+  }
+]

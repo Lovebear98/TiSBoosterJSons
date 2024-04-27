@@ -1,0 +1,787 @@
+{
+  "${modID}:AncientIncenseBurner": {
+    "NAME": "Ancient Incense Burner",
+    "DESCRIPTION": "${modID}:Item: NL ${modID}:Antique 1.",
+    "UPGRADE_DESCRIPTION": "An incense burner used to communicate with the ancestral spirits within Quintessences.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:AbandonedWeddingRing": {
+    "NAME": "Abandoned Wedding Ring",
+    "DESCRIPTION": "${modID}:Item: NL ${modID}:Absolute_Zero 1.",
+    "UPGRADE_DESCRIPTION": "How long has it been left out? This ring is cold.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:BoneOfTime": {
+    "NAME": "Bone of Time",
+    "DESCRIPTION": "${modID}:Item: NL ${modID}:Bone 1.",
+    "UPGRADE_DESCRIPTION": "A grotesque hourglass containing finely ground bone dust.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:HateStone": {
+    "NAME": "Hate Stone",
+    "DESCRIPTION": "${modID}:Item: NL ${modID}:Artifact 1.",
+    "UPGRADE_DESCRIPTION": "A stone the orc shamans imbued with black magic to enhance combativeness.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:BrokenDagger": {
+    "NAME": "Broken Dagger",
+    "DESCRIPTION": "${modID}:Item: NL ${modID}:Excessive_Bleeding 1.",
+    "UPGRADE_DESCRIPTION": "Nobody knows why, but it looks more threatening when broken.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:CarleonArmor": {
+    "NAME": "Standard Carleon Armor",
+    "DESCRIPTION": "${modID}:Item: NL ${modID}:Fortress 1.",
+    "UPGRADE_DESCRIPTION": "Non-distinct, standard-issue armor worn by the Carleon Army.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:RejuvenatingRoot": {
+    "NAME": "Rejuvenating Root",
+    "DESCRIPTION": "${modID}:Item: NL ${modID}:Revenge 1.",
+    "UPGRADE_DESCRIPTION": "A must-have for rookie adventurers.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:HandOfGlory": {
+    "NAME": "Hand of Glory",
+    "DESCRIPTION": "${modID}:Item: NL ${modID}:Fortress 1. NL ${modID}:Antique 1.",
+    "UPGRADE_DESCRIPTION": "The owner of this enormous hand would grow more powerful with size.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:FrostWitchStaff": {
+    "NAME": "Frost Witch's Staff",
+    "DESCRIPTION": "${modID}:Item: NL ${modID}:Antique 1. NL ${modID}:Absolute_Zero 1.",
+    "UPGRADE_DESCRIPTION": "The crazy witch would summon multiple hailstorms in a single day.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:TerribleBladeShards": {
+    "NAME": "Terrible Blade Shards",
+    "DESCRIPTION": "${modID}:Item: NL ${modID}:Excessive_Bleeding 1. NL ${modID}:Bone 1.",
+    "UPGRADE_DESCRIPTION": "Terrible shards which inflict cuts that never heal.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:ManaGauntlets": {
+    "NAME": "Mana Gauntlets",
+    "DESCRIPTION": "${modID}:Item: NL ${modID}:Artifact 1. NL ${modID}:Bone 1.",
+    "UPGRADE_DESCRIPTION": "A set of magical tools that allows the wearer to draw mana from his body to his hands.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:GoldenWhip": {
+    "NAME": "Golden Whip",
+    "DESCRIPTION": "${modID}:Item: NL ${modID}:Excessive_Bleeding 1. NL ${modID}:Revenge 1.",
+    "UPGRADE_DESCRIPTION": "Hurry up and hit me! Please! Please! I beg you!",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:SphinxEye": {
+    "NAME": "Sphinx Eye",
+    "DESCRIPTION": "${modID}:Item: NL ${modID}:Fortress 1. NL ${modID}:Artifact 1.",
+    "UPGRADE_DESCRIPTION": "An eye believed to make its bearer fearless.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:FrostGiantLeather": {
+    "NAME": "Frost Giant's Leather",
+    "DESCRIPTION": "${modID}:Item: NL ${modID}:Absolute_Zero 1. NL ${modID}:Revenge 1.",
+    "UPGRADE_DESCRIPTION": "The leather of a giant who once inhabited cold regions. The cold would provide him peace of mind.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:StoneMask": {
+    "NAME": "Stone Mask",
+    "DESCRIPTION": "${modID}:Item: NL ${modID}:Masterpiece 1. NL ${modID}:Antique 1.",
+    "UPGRADE_DESCRIPTION": "I forfeit my humanity! I will transcend it!",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:NaiasHeart": {
+    "NAME": "Naias's Heart",
+    "DESCRIPTION": "${modID}:Item: NL ${modID}:Masterpiece 1. NL ${modID}:Absolute_Zero 1.",
+    "UPGRADE_DESCRIPTION": "A magic gem found in the place of the heart of the spirit who protected Elemental Lake.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:BoneOfMadness": {
+    "NAME": "Bone of Madness",
+    "DESCRIPTION": "${modID}:Item: NL ${modID}:Masterpiece 1. NL ${modID}:Bone 1.",
+    "UPGRADE_DESCRIPTION": "Bones made by countless, compressed bones. They say the array of these bones are such a sight to behold.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:GrudgeStone": {
+    "NAME": "Grudge Stone",
+    "DESCRIPTION": "${modID}:Item: NL ${modID}:Masterpiece 1. NL ${modID}:Artifact 1.",
+    "UPGRADE_DESCRIPTION": "This Grudge Stone absorbs negative emotional energy. When it's full, it resonates mana.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:VampireFang": {
+    "NAME": "Vampire Fang",
+    "DESCRIPTION": "${modID}:Item: NL ${modID}:Masterpiece 1. NL ${modID}:Excessive_Bleeding 1.",
+    "UPGRADE_DESCRIPTION": "Elizabeth's fang can't be destroyed by anything under the sun.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:KnightDetermination": {
+    "NAME": "Knight's Determination",
+    "DESCRIPTION": "${modID}:Item: NL ${modID}:Masterpiece 1. NL ${modID}:Fortress 1.",
+    "UPGRADE_DESCRIPTION": "A helm worn by a nameless knight who was found dead in a destroyed palace with his shield still held upward.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:DecayedHeart": {
+    "NAME": "Decayed Heart",
+    "DESCRIPTION": "${modID}:Item: NL ${modID}:Masterpiece 1. NL ${modID}:Revenge 1.",
+    "UPGRADE_DESCRIPTION": "A vile heart that discharges poison on impact.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:ChosenBible": {
+    "NAME": "Chosen Cleric's Bible",
+    "DESCRIPTION": "${modID}:Item: NL ${modID}:Masterpiece 1. NL ${modID}:Antique 2.",
+    "UPGRADE_DESCRIPTION": "I'll protect you!",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:ChosenCirclet": {
+    "NAME": "Chosen Hero's Circlet",
+    "DESCRIPTION": "${modID}:Item: NL ${modID}:Masterpiece 1. NL ${modID}:Absolute_Zero 2.",
+    "UPGRADE_DESCRIPTION": "I shall show you the powers of a true hero!",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:ChosenArrow": {
+    "NAME": "Chosen Hunter's Arrow",
+    "DESCRIPTION": "${modID}:Item: NL ${modID}:Masterpiece 1. NL ${modID}:Bone 2.",
+    "UPGRADE_DESCRIPTION": "You're the perfect size to take an arrow.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:ChosenBadge": {
+    "NAME": "Chosen Mage's Badge",
+    "DESCRIPTION": "${modID}:Item: NL ${modID}:Masterpiece 1. NL ${modID}:Artifact 2.",
+    "UPGRADE_DESCRIPTION": "I shall burn you to ash!",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:ChosenSwords": {
+    "NAME": "Chosen Thief's Twin Swords",
+    "DESCRIPTION": "${modID}:Item: NL ${modID}:Masterpiece 1. NL ${modID}:Excessive_Bleeding 2.",
+    "UPGRADE_DESCRIPTION": "This skill is too much for you.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:ChosenArmor": {
+    "NAME": "Chosen Warrior's Armor",
+    "DESCRIPTION": "${modID}:Item: NL ${modID}:Masterpiece 1. NL ${modID}:Fortress 2.",
+    "UPGRADE_DESCRIPTION": "Hahahaha! Hit me here and there! Not a scratch!",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:WorldTreeSeed": {
+    "NAME": "World Tree Seed",
+    "DESCRIPTION": "${modID}:Item: NL ${modID}:Masterpiece 1. NL ${modID}:Revenge 2.",
+    "UPGRADE_DESCRIPTION": "Nature itself that laid the foundation of the forest.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:PotOfGreed": {
+    "NAME": "Pot of Greed",
+    "DESCRIPTION": "${modID}:Item: NL ${modID}:Omen 1. NL ${modID}:Antique 4.",
+    "UPGRADE_DESCRIPTION": "The original owner must've been terrible. it's full of greed.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:GlacierBreaker": {
+    "NAME": "Glacier Breaker",
+    "DESCRIPTION": "${modID}:Item: NL ${modID}:Omen 1. NL ${modID}:Absolute_Zero 4.",
+    "UPGRADE_DESCRIPTION": "I! Hate! Ice! Break! Them! All!",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:InfiniteBone": {
+    "NAME": "Infinite Bone",
+    "DESCRIPTION": "${modID}:Item: NL ${modID}:Bone 3.",
+    "UPGRADE_DESCRIPTION": "This is the perfect container for the valuable scrolls from the witch.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:Demonomicon": {
+    "NAME": "Demonomicon",
+    "DESCRIPTION": "${modID}:Item: NL ${modID}:Omen 1. NL ${modID}:Artifact 4.",
+    "UPGRADE_DESCRIPTION": "The ultimate spell book that shook the continent with heinous destructive power.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:MiracleGrail": {
+    "NAME": "Miracle Grail",
+    "DESCRIPTION": "${modID}:Item: NL ${modID}:Omen 1. NL ${modID}:Excessive_Bleeding 4.",
+    "UPGRADE_DESCRIPTION": "It's incredible. Look at the red water keep filling up.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:ArmorOfFear": {
+    "NAME": "Armor of Fear",
+    "DESCRIPTION": "${modID}:Item: NL ${modID}:Omen 1. NL ${modID}:Fortress 4.",
+    "UPGRADE_DESCRIPTION": "Fear is the root of all superstitions, and one of the roots of cruelty.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:AsceticHeart": {
+    "NAME": "Heart of the Ascetic",
+    "DESCRIPTION": "${modID}:Item: NL ${modID}:Omen 1. NL ${modID}:Revenge 4.",
+    "UPGRADE_DESCRIPTION": "This explains why he charges at me every time he sees me!",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:IrresistibleSuggestion": {
+    "NAME": "Irresistible Suggestion",
+    "DESCRIPTION": "${modID}:Item: NL ${modID}:Omen 1. NL ${modID}:Masterpiece 3.",
+    "UPGRADE_DESCRIPTION": "Its bearer will become the most powerful being in the land. But... they shall be cursed with eternal sadness.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:TheOneRing": {
+    "NAME": "The Ring",
+    "DESCRIPTION": "${modID}:Item: Counts as 1 of ALL sets, including ${modID}:Omen.",
+    "UPGRADE_DESCRIPTION": "One Ring to rule them all.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:PropheciesOfEvilLust": {
+    "NAME": "Prophecy of Evil: Lust",
+    "DESCRIPTION": "${modID}:Item: ${modID}:Masterpiece 2. NL ${modID}:Sin.",
+    "UPGRADE_DESCRIPTION": "Why do you hesitate? Never stop showing off your skills! Each time you defeat an enemy with your skills, you will go beyond your limits!",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:GrimReaperSkull": {
+    "NAME": "Grim Reaper",
+    "DESCRIPTION": "*Passive: !${modID}:SOUL! ${modID}:Souls. At the start of your turn, gain Temporary HP equal to 8% of your missing HP. NL *Bonepile: Gain ${modID}:Embrace. NL *Swap: ALL dead allies gain your ${modID}:Shroud.",
+    "UPGRADE_DESCRIPTION": "He'll make sure you get to the top of the spire, but you'd better have the coin to pay or he'll make you take the boat.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:LivingArmorSkull": {
+    "NAME": "Living Armor",
+    "DESCRIPTION": "*Passive: Halve your *Attack damage, but gain that many ${modID}:Flame_Spirits. NL *Bonepile: ALL players gain 2 *Flame *Spirits. NL *Swap: Gain 15 *Flame *Spirits.",
+    "UPGRADE_DESCRIPTION": "Nobody knows how many degrees it is, but it's a safe bet that this knife is hot enough for you.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:UnknownKingSkull": {
+    "NAME": "The Unknown King",
+    "DESCRIPTION": "*Passive: Gain ${modID}:Mana when players draw. NL *Bonepile: Shuffle *Arthurian *Light into an ally's draw pile. NL *Swap: Add *Vivian to your hand.",
+    "UPGRADE_DESCRIPTION": "He did NOT die when he was killed, no matter what you may have been told.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:MinotaurusSkull": {
+    "NAME": "Minotaurus",
+    "DESCRIPTION": "*Passive: ALL allies take half of your *Attack damage to give you that much skulmod:Stamina. ALL allies gain half of your unblocked damage taken as *Stamina.",
+    "UPGRADE_DESCRIPTION": "Just because he's not TRYING to kill you doesn't mean the backswing won't do the job by mistake. You'll be a little sturdier after if you make it through though!",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:HeroSkull": {
+    "NAME": "Hero",
+    "DESCRIPTION": "*Passive: The first *Swap generates a *Heroic *Entrance. NL *Bonepile: ALL allies *Bonepile. NL *Swap: ALL allies *Swap.",
+    "UPGRADE_DESCRIPTION": "The apple never fell far from the tree.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:CarleonRecruitSkull": {
+    "NAME": "Carleon Recruit",
+    "DESCRIPTION": "*Passive: Take 1 less damage for each ${modID}:Veteran you have. NL *Bonepile: Gain a ${modID}:Rank. NL *Swap: ALL players gain 4 *Ranks.",
+    "UPGRADE_DESCRIPTION": "Fall in line! He might look weak, but this is Sir General Comodore Fifteenth Legion Admiral Colonel Duke Skelington The Fourth!",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:AlchemistSkull": {
+    "NAME": "Alchemist",
+    "DESCRIPTION": "*Passive: Deal 1 extra damage for each debuff on a target or potion used this turn. NL *Bonepile: ${modID}:Concoct. NL *Swap: *Concoct 2 and gain a random ${modID}:Flask.",
+    "UPGRADE_DESCRIPTION": "He's got a good throwing arm, so you'll test the potion whether or not you want to. If you're agreeable, you might get some cool new limbs instead of losing your head...",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:GraveDiggerSkull": {
+    "NAME": "Grave Digger",
+    "DESCRIPTION": "*Passive: When an enemy dies, add a *Burial to your hand. NL *Bonepile: Gain 1 ${modID}:Lament. NL *Swap: Add a *Burial to your hand",
+    "UPGRADE_DESCRIPTION": "He doesn't understand what's so sad - it's all so very funny, isn't it? Maybe he's just post-humorous.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:ArthurianLight": {
+    "NAME": "Arthurian Light",
+    "DESCRIPTION": "Target ally draws !M! card. NL Target an enemy to use on yourself. NL Purge.",
+    "UPGRADE_DESCRIPTION": "Target ally draws !M! cards. NL Target an enemy to use on yourself. NL Purge.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:Vivian": {
+    "NAME": "Vivian",
+    "DESCRIPTION": "Target ally draws until their hand is full, then discards half their hand.  NL Target an enemy to use on yourself. NL Purge.",
+    "UPGRADE_DESCRIPTION": "Target ally draws until their hand is full, then discards half their hand.  NL Target an enemy to use on yourself. NL Purge.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:Excalibur": {
+    "NAME": "Excalibur",
+    "DESCRIPTION": "Retain. NL Deal !D! damage, equal to the number of cards ALL players drew in total this turn. NL Purge.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Deal !D! damage, equal to the number of cards ALL players drew in total this turn. NL Purge.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:GravePhantom": {
+    "NAME": "Grave Phantom",
+    "DESCRIPTION": "Exhaust. NL ALL players gain Block equal to your missing HP.",
+    "UPGRADE_DESCRIPTION": "Exhaust. NL ALL players gain Block equal to your missing HP.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:ReapingStrike": {
+    "NAME": "Reaping Strike",
+    "DESCRIPTION": "Deal !D! damage. NL For each ${modID}:Fading ally, deal damage again.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL For each ${modID}:Fading ally, deal damage again.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:Guillotine": {
+    "NAME": "Guillotine",
+    "DESCRIPTION": "Ethereal. NL You and the target take !D! damage. Put this in a random ally's hand with damage equal to double the damage dealt.",
+    "UPGRADE_DESCRIPTION": "Ethereal. NL You and the target lose !D! HP. Put this in a random ally's hand with damage equal to double the damage dealt.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:NetherworldFissure": {
+    "NAME": "Netherworld Fissure",
+    "DESCRIPTION": "Add a *Gateway to your hand, and to the hand of any ${modID}:Fading ally.",
+    "UPGRADE_DESCRIPTION": "Add an Upgraded *Gateway to your hand, and to the hand of any ${modID}:Fading ally.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:Gateway": {
+    "NAME": "Gateway",
+    "DESCRIPTION": "Deal !D! damage to a random enemy, then your target. NL Purge.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage to a random enemy, then your target. NL Purge.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:Harvest": {
+    "NAME": "Harvest",
+    "DESCRIPTION": "Deal !D! damage. If the target is an ally, heal equal to the unblocked damage and give them twice as much Block. If they're ${modID}:Fading, gain full effect.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. If the target is an ally, heal equal to the unblocked damage and give them twice as much Block. If they're ${modID}:Fading, gain full effect.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:Sentence": {
+    "NAME": "Sentence",
+    "DESCRIPTION": "Exhaust. NL Apply !M! Weak and Vulnerable. NL If the target is an ally, they gain [E] and ${modID}:Corpse_Explosion.",
+    "UPGRADE_DESCRIPTION": "Exhaust. NL Apply !M! Weak and Vulnerable. NL If the target is an ally, they gain [E] [E] and ${modID}:Corpse_Explosion.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:Backdraft": {
+    "NAME": "Backdraft",
+    "DESCRIPTION": "Deal !D! damage and gain that many ${modID}:Flame_Spirits.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage and gain that many ${modID}:Flame_Spirits.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:SoulArmor": {
+    "NAME": "Soul Armor",
+    "DESCRIPTION": "Gain 8 *Flame *Spirits. NL Block the next !M! attacks with up to that many ${modID}:Flame_Spirits. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Gain 8 *Flame *Spirits. NL Block the next !M! attacks with up to that many ${modID}:Flame_Spirits. NL Exhaust.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:ToolsOfValor": {
+    "NAME": "Tools of Valor",
+    "DESCRIPTION": "Target ally gains !B! Block and !M! ${modID}:Flame_Spirits. NL Target an enemy to use on yourself.",
+    "UPGRADE_DESCRIPTION": "Target ally gains !B! Block and !M! ${modID}:Flame_Spirits. NL Target an enemy to use on yourself.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:SoulSpark": {
+    "NAME": "Soul Spark",
+    "DESCRIPTION": "ALL players gain 10 ${modID}:Flame_Spirits. NL ALL enemies gain !M! skulmod:Burn and Vulnerable. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "ALL players gain 10 ${modID}:Flame_Spirits. NL ALL enemies gain !M! skulmod:Burn and Vulnerable. NL Exhaust.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:StokeTheFlames": {
+    "NAME": "Stoke The Flames",
+    "DESCRIPTION": "Target ally enters ${modID}:Combustion. Target an enemy to use on yourself. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Target ally enters ${modID}:Combustion. Target an enemy to use on yourself. NL Exhaust.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:Kiln": {
+    "NAME": "Kiln",
+    "DESCRIPTION": "If ANY player is in ${modID}:Combustion, ALL of them enter *Combustion. NL Draw !M! card. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "If ANY player is in ${modID}:Combustion, ALL of them enter *Combustion. NL Draw !M! card. NL Exhaust.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:SecondWind": {
+    "NAME": "Grudge Match",
+    "DESCRIPTION": "Retain. NL ALL players enter Calm. NL At the start of the next turn, ALL players enter Wrath.",
+    "UPGRADE_DESCRIPTION": "Retain. NL ALL players enter Calm. NL At the start of the next turn, ALL players enter Wrath.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:JollyRoger": {
+    "NAME": "Jolly Roger",
+    "DESCRIPTION": "Exhaust. NL Choose !M! card in your hand. Add a copy of it to ALL allies' hands.",
+    "UPGRADE_DESCRIPTION": "Choose !M! card in your hand. Add a copy of it to ALL allies' hands.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:FullHouse": {
+    "NAME": "Full House",
+    "DESCRIPTION": "Whenever you skulmod:Gamble, allies also skulmod:Gamble !M! times.",
+    "UPGRADE_DESCRIPTION": "Whenever you skulmod:Gamble, allies also skulmod:Gamble !M! times.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:KnifeTrick": {
+    "NAME": "Knife Trick",
+    "DESCRIPTION": "Add an exact copy of the next !M! card an ally plays to your DECK. NL Fleeting.",
+    "UPGRADE_DESCRIPTION": "Add an exact copy of the next !M! cards an ally plays to your DECK. NL Fleeting.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:ColdSnap": {
+    "NAME": "Cold Snap",
+    "DESCRIPTION": "Retain. Exhaust. NL ALL players become skulmod:Frozen !M!.",
+    "UPGRADE_DESCRIPTION": "Retain. Exhaust. NL ALL players become skulmod:Frozen !M!.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:Incantation": {
+    "NAME": "Ritual",
+    "DESCRIPTION": "Add a *Rapid *Channel to ALL allies' hands.",
+    "UPGRADE_DESCRIPTION": "Add an Upgraded *Rapid *Channel to ALL allies' hands.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:FiringSquad": {
+    "NAME": "Firing Squad",
+    "DESCRIPTION": "ALL players gain !M! Temporary Focus and Channel an skulmod:Arrow.",
+    "UPGRADE_DESCRIPTION": "ALL players gain !M! Temporary Focus and Channel an skulmod:Arrow.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:Fence": {
+    "NAME": "Fence",
+    "DESCRIPTION": "Each ally that can afford to pays you !M! *Gold to draw a card.",
+    "UPGRADE_DESCRIPTION": "Each ally that can afford to pays you !M! *Gold to draw 2 cards.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:Phalanx": {
+    "NAME": "Phalanx",
+    "DESCRIPTION": "Exhaust. NL ALL players' gain half of the highest Block among you.",
+    "UPGRADE_DESCRIPTION": "Exhaust. NL ALL players' gain half of the highest Block among you. If it was your Block, gain [E] .",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:CompoundStrike": {
+    "NAME": "Compound Strike",
+    "DESCRIPTION": "Deal !D! damage. NL ALL allies' Strength and Vigor increase the damage.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage !M! times. NL ALL allies' Strength and Vigor increase the damage.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:PackMentality": {
+    "NAME": "Pack Mentality",
+    "DESCRIPTION": "When you discard a card, a random ally draws !M! card.",
+    "UPGRADE_DESCRIPTION": "When you discard a card, a random ally draws !M! card.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:Survivor": {
+    "NAME": "Survivor",
+    "DESCRIPTION": "Each ally gains !M! Block at the start of the turn. For each dead ally, you gain [E] and draw a card instead.",
+    "UPGRADE_DESCRIPTION": "Each ally gains !M! Block at the start of the turn. For each dead ally, you gain [E] and draw a card instead.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:Gymnasium": {
+    "NAME": "Gymnasium",
+    "DESCRIPTION": "Add a skulmod:Grapple to your hand. NL Add a copy of the next !M! *Grapples you play to a random ally's hand.",
+    "UPGRADE_DESCRIPTION": "Add a skulmod:Grapple to your hand. NL Add a copy of the next !M! *Grapples you play to a random ally's hand.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:ThreeKingdoms": {
+    "NAME": "Three Kingdoms",
+    "DESCRIPTION": "Add a *Strategy *Book to ALL allies' hands. NL Draw !M! card.",
+    "UPGRADE_DESCRIPTION": "Add an Upgraded *Strategy *Book to ALL allies' hands. NL Draw !M! cards.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:Coopacalypse": {
+    "NAME": "Co-opacalypse",
+    "DESCRIPTION": "Target ally gains !M! Focus and channels a ${modID}:Meteor.",
+    "UPGRADE_DESCRIPTION": "Target ally gains !M! Focus and channels a ${modID}:Meteor.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:Soulburn": {
+    "NAME": "Soulburn",
+    "DESCRIPTION": "When drawn, ALL characters gain skulmod:Burn.",
+    "UPGRADE_DESCRIPTION": "When drawn, ALL characters gain !M! skulmod:Burn.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:HeroicEntrance": {
+    "NAME": "Heroic Entrance",
+    "DESCRIPTION": "*Swap. NL As *Hero, ALL players skulmod:Bonepile !M! and skulmod:Swap instead.",
+    "UPGRADE_DESCRIPTION": "*Swap. NL As *Hero, ALL players skulmod:Bonepile !M! and skulmod:Swap instead.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:ComradeSystem": {
+    "NAME": "Comrade System",
+    "DESCRIPTION": "Retain. NL Either choose a ${modID}:Comrade to Channel, or ${modID}:Order !M! time.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Either choose a ${modID}:Veteran ${modID}:Comrade to Channel, or ${modID}:Order !M! times.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:IssueOrders": {
+    "NAME": "Issue Orders",
+    "DESCRIPTION": "Issue !M! ${modID}:Order to your ${modID}:Comrades.",
+    "UPGRADE_DESCRIPTION": "Issue !M! ${modID}:Orders to your ${modID}:Comrades.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:ScoutArcher": {
+    "NAME": "Scout Archer",
+    "DESCRIPTION": "Scout an *Archer ${modID}:Comrade that spreads Vigor to ALL players.",
+    "UPGRADE_DESCRIPTION": "Scout a ${modID}:Veteran *Archer ${modID}:Comrade that spreads Vigor to ALL players.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:ScoutAssassin": {
+    "NAME": "Scout Assassin",
+    "DESCRIPTION": "Scout an *Assassin ${modID}:Comrade that causes ALL players to deal damage.",
+    "UPGRADE_DESCRIPTION": "Scout a ${modID}:Veteran *Assassin ${modID}:Comrade that causes ALL players to deal damage.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:ScoutKnight": {
+    "NAME": "Scout Knight",
+    "DESCRIPTION": "Scout a *Knight ${modID}:Comrade that spreads Block to ALL players.",
+    "UPGRADE_DESCRIPTION": "Scout a ${modID}:Veteran *Knight ${modID}:Comrade that spreads Block to ALL players.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:ScoutRecruit": {
+    "NAME": "Scout Recruit",
+    "DESCRIPTION": "Scout a *Recruit ${modID}:Comrade that will leave to carry an *Order to other players.",
+    "UPGRADE_DESCRIPTION": "Scout a ${modID}:Veteran *Recruit ${modID}:Comrade that will leave to carry an *Order to other players.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:CommanderForm": {
+    "NAME": "Commander Form",
+    "DESCRIPTION": "Former ${modID}:Comrades will be ${modID}:Ordered at a value of !M! even after being Evoked. *Recruits and other orbs will give ${modID}:Ranks.",
+    "UPGRADE_DESCRIPTION": "Former ${modID}:Comrades will be ${modID}:Ordered at a value of !M! even after being Evoked. *Recruits and other orbs will give ${modID}:Ranks.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:Experimentation": {
+    "NAME": "Experimentation",
+    "DESCRIPTION": "Retain. NL Give target ally a random ${modID}:Flask. Target an enemy to use on yourself.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Give target ally a random ${modID}:Flask. Target an enemy to use on yourself.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:Burial": {
+    "NAME": "Burial",
+    "DESCRIPTION": "Retain. NL Create a ${modID}:Grave. Target a *Grave to choose a ${modID}:Great_Tragedy to channel.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Create a ${modID}:Grave. Target a *Grave to gain an orb slot and choose a ${modID}:Great_Tragedy to channel.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:Hamlet": {
+    "NAME": "Hamlet",
+    "DESCRIPTION": "*Hamlet deals damage to a random enemy every turn, prioritizing ${modID}:Graves and lasting 2 turns.",
+    "UPGRADE_DESCRIPTION": "*Hamlet deals damage to a random enemy every turn, prioritizing ${modID}:Graves and lasting 2 turns.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:Othello": {
+    "NAME": "Othello",
+    "DESCRIPTION": "*Othello deals damage to a random enemy when Evoked, lasting 1 turn. The longer he survives, the more damage he deals.",
+    "UPGRADE_DESCRIPTION": "*Othello deals damage to a random enemy when Evoked, lasting 1 turn. The longer he survives, the more damage he deals.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:Macbeth": {
+    "NAME": "Macbeth",
+    "DESCRIPTION": "*Macbeth deals damage to ALL enemies when Evoked, lasting 5 turns.",
+    "UPGRADE_DESCRIPTION": "*Macbeth deals damage to ALL enemies when Evoked, lasting 5 turns.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:KingLear": {
+    "NAME": "King Lear",
+    "DESCRIPTION": "*King *Lear grants Vigor every turn, lasting 2 turns.",
+    "UPGRADE_DESCRIPTION": "*King *Lear grants Vigor every turn, lasting 2 turns.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:Presto": {
+    "NAME": "Presto!",
+    "DESCRIPTION": "Ethereal. NL Channel a ${modID}:Genie using up to !M! of your HP. NL Fails if your HP is at 1. NL Purge.",
+    "UPGRADE_DESCRIPTION": "Ethereal. NL Channel a ${modID}:Genie using up to !M! of your HP. NL Fails if your HP is at 1. NL Purge.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:GeneSkull": {
+    "NAME": "Gene",
+    "DESCRIPTION": "*Passive: If a ${modID}:Genie takes half or more of a hit's damage, prevent all damage that exceeds its HP. NL *Swap: Add a *Presto! to your hand.",
+    "UPGRADE_DESCRIPTION": "He excels at making things disappear. Unfortunately, everything but him seems to struggle to re-appear.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:SamuraiSkull": {
+    "NAME": "Samurai",
+    "DESCRIPTION": "*Passive: Deal up to 2x damage to the ${modID}:Shogun, the more HP they have left. NL *Bonepile: *Mark the ${modID}:Shogun. NL *Swap: Put *Full *Moon *Slash on top of your deck.",
+    "UPGRADE_DESCRIPTION": "He's dedicated life to becoming the most feared samurai to ever exist - and this time tripping onto his own sword won't stop his plans.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:FullMoonSlash": {
+    "NAME": "Full Moon Slash",
+    "DESCRIPTION": "Ethereal. NL Deal !D! damage, equal to the enemy's *Mark times the number of players. NL Purge.",
+    "UPGRADE_DESCRIPTION": "Ethereal. NL Deal !D! damage, equal to the enemy's *Mark times the number of players. NL Purge.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:SoulContract": {
+    "NAME": "Soul Contract",
+    "DESCRIPTION": "Ethereal. NL Convert !M! *Max *HP into ${modID}:Souls for the target, or Strength instead if you have 1 *Max *HP. NL Purge.",
+    "UPGRADE_DESCRIPTION": "Ethereal. NL Convert !M! *Max *HP into ${modID}:Souls and Strength for the target, or only Strength if you have 1 *Max *HP. NL Purge.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  }
+}
+
+
+
+
+
+
+
+
+

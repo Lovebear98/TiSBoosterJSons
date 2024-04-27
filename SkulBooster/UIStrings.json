@@ -1,0 +1,16 @@
+{
+  "${modID}:UIStuff": {
+    "TEXT": [
+      "Send",
+      "N"
+    ],
+    "EXTRA_TEXT": [
+      "N",
+      "N"
+    ],
+    "TEXT_DICT": {
+      "This": "N",
+      "This is a key": "N"
+    }
+  }
+}
