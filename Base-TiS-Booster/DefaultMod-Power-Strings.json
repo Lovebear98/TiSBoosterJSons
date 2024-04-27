@@ -1,0 +1,94 @@
+{
+        "tisCardPack:TauntPower": {
+                "NAME": "Taunt",
+                "DESCRIPTIONS": ["#yTaunted by ", " for the next ", " turn."," turns."]
+        },
+        "tisCardPack:TauntPlayerPower": {
+                "NAME": "Taunt",
+                "DESCRIPTIONS": ["#yTaunted by ", " for the next ", " turn."," turns."]
+        },
+        "tisCardPack:InsanityPower": {
+                "NAME": "Insanity",
+                "DESCRIPTIONS": ["Under the effects of ", " stacks of Insanity."]
+        },
+        "tisCardPack:FullChargePower": {
+                "NAME": "Full Charge",
+                "DESCRIPTIONS": ["If all allies have Full Charge power at the end of the turn, all players deal 10 damage to all enemies."]
+        },
+        "tisCardPack:CryoPower": {
+                "NAME": "Cryo",
+                "DESCRIPTIONS": ["Frost orbs apply to all teammates."]
+        },
+        "tisCardPack:ReplicatePower": {
+                "NAME": "Replicate",
+                "DESCRIPTIONS": ["Next ", "skill", " skills", " you play until the end of your turn will play for all allies as well."]
+        },
+        "tisCardPack:BloodPactPower": {
+                "NAME": "Blood Pact",
+                "DESCRIPTIONS": ["Each time you lose HP, give 1 HP to all allies in the room."]
+        },
+        "tisCardPack:DoomedPower": {
+                "NAME": "Doomed",
+                "DESCRIPTIONS": ["Die at the end of combat. This power cannot be removed."]
+        },
+        "tisCardPack:SpiritBindPower": {
+                "NAME": "Spirit Bind",
+                "DESCRIPTIONS": ["If #p", " dies, die. This power cannot be removed.", "the bound player"]
+        },
+        "tisCardPack:GoldenFlamePower": {
+                "NAME": "Golden Flame",
+                "DESCRIPTIONS": ["Whenever you deal damage to this monster with a card, gain 1 gold."]
+        },
+        "tisCardPack:ShadePower": {
+                "NAME": "Shade",
+                "DESCRIPTIONS": ["This monster's current HP is hidden."]
+        },
+        "tisCardPack:DarknessPower": {
+                "NAME": "Darkness",
+                "DESCRIPTIONS": ["A veil of darkness surrounds you."]
+        },
+        "tisCardPack:SanctifyPower": {
+                "NAME": "Sanctify",
+                "DESCRIPTIONS": ["Whenever you gain Mantra, ALL allies gain ", " Mantra."]
+        },
+        "tisCardPack:SacredGroundsPower": {
+                "NAME": "Sacred Grounds",
+                "DESCRIPTIONS": ["Whenever an ally gains Insanity, gain 1 Energy."]
+        },
+        "tisCardPack:StasisPower": {
+                "NAME": "Stasis",
+                "DESCRIPTIONS": ["Can't take damage or play cards this turn."]
+        },
+        "tisCardPack:ManiaPower": {
+                "NAME": "Mania",
+                "DESCRIPTIONS": ["Whenever you take unblocked damage, gain 1 Strength and 1 Insanity."]
+        },
+        "tisCardPack:CopycatPower": {
+                "NAME": "Copycat",
+                "DESCRIPTIONS": ["Repeat the next ", "ally played card." ," ally played cards."]
+        },
+        "tisCardPack:PurifiedPower": {
+                "NAME": "Purify",
+                "DESCRIPTIONS": ["All Dark orbs are converted to Purified Dark orbs."]
+        },
+        "tisCardPack:SelectDrawPower": {
+                "NAME": "Select Draw",
+                "DESCRIPTIONS": ["Every time an ally manually discards a card, draw 1 card."]
+        },
+        "tisCardPack:ClawedPower": {
+                "NAME": "Clawed",
+                "DESCRIPTIONS": ["Each ally played Claw counts towards your Claw damage as well."]
+        },
+        "tisCardPack:TrueInvincibilityPower": {
+                "NAME": "True Invincibility",
+                "DESCRIPTIONS": ["At the end of turn, take damage equal to the highest player dealt damage this turn. NL Your damage: ", " NL Lowest Damage: "]
+        },
+        "tisCardPack:ScrapperPower": {
+                "NAME": "Scrapper",
+                "DESCRIPTIONS": ["Whenever an ally discards a card, gain 1 #yShiv", "+"]
+        },
+        "tisCardPack:TrueBeatOfDeathPower": {
+                "NAME": "True Beat of Death",
+                "DESCRIPTIONS": ["Take ", " damage every heartbeat"]
+        }
+}

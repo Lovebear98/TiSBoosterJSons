@@ -1,0 +1,75 @@
+[
+  {
+    "NAMES": [
+      "global"
+    ],
+    "DESCRIPTION": "Whenever you collect this item, give a copy to each player currently in the game."
+  },
+  {
+    "NAMES": [
+      "transfer",
+      "transferred",
+      "transferring"
+    ],
+    "DESCRIPTION": "Moves this item to the given player until the end of combat."
+  },
+  {
+    "NAMES": [
+      "trade"
+    ],
+    "DESCRIPTION": "Permanently moves this item to the given player."
+  },
+  {
+    "NAMES": [
+      "taunt",
+      "taunted"
+    ],
+    "DESCRIPTION": "Taunted monsters do 10% less damage to other players but 10% more damage to the player that taunted them, per stack of Taunt applied."
+  },
+  {
+    "NAMES": [
+      "insanity"
+    ],
+    "DESCRIPTION": "Each stack of insanity gives you 3% chance to damage a random ally instead of the intended target. Decreases by 1 at the end of each turn."
+  },
+  {
+    "PROPER_NAME": "Full Charge",
+    "NAMES": [
+      "Full Charge",
+      "full_charge"
+    ],
+    "DESCRIPTION": "If all players have Full Charge power, do 10 damage per player at the end of turn and remove the power."
+  },
+  {
+    "NAMES": [
+      "construct"
+    ],
+    "DESCRIPTION": "If the target has no orb slots when channeling, gain an orb slot."
+  },
+  {
+    "NAMES": [
+      "doomed"
+    ],
+    "DESCRIPTION": "Die at the end of combat."
+  },
+  {
+    "PROPER_NAME": "Spirit Bind",
+    "NAMES": [
+      "Spirit Bind",
+      "spirit_bind",
+      "Spirit_Bind"
+    ],
+    "DESCRIPTION": "If the player you're bound to dies, die."
+  },
+  {
+    "PROPER_NAME": "Golden Flame",
+    "NAMES": [
+      "Golden Flame",
+      "golden_flame",
+      "golden_flames",
+      "gflame",
+      "gflames"
+    ],
+    "DESCRIPTION": "Whenever you deal damage with a card to a monster with this power, gain 1 gold."
+  }
+]

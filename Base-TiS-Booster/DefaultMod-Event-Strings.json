@@ -1,0 +1,96 @@
+{
+  "tisCardPack:IdentityCrisisEvent": {
+    "NAME": "Identity Crisis",
+    "DESCRIPTIONS": [
+      "As you move through ~The~ ~City~ you come across a #pPurple #pMirror. NL You look at it, but you see no reflection.",
+      "You see no one but #g~You~ #g~wish~ #g~to~ #g~become~ #g~someone.~",
+      "#r@YOU@ #r@EXIST@ #r@AND@ #r@ARE@ #r@VALID!@",
+      "#yYou #yare #yat #ypeace #ywith #yyour #ypresence.",
+      "You have no hands."
+    ],
+    "OPTIONS": [
+      "[Inspiration] #gGain #ga #gRandom #gStarting #gRelic.",
+      "[Denial] #rLose #r",
+      " #rMax #rHP. #gRemove #ga #gCard #gfrom #gyour #gdeck.",
+      "[Acceptance] #gGain #gApotheosis.",
+      "[TOUCH THE MIRROR] TOUCH TOUCH TO#C# TOUCH TO UCH TOUCH #rTOUCH TOUCH",
+      "[Leave]",
+      "Select card to remove."
+    ]
+  },
+  "tisCardPack:RingMaster": {
+    "NAME": "Red Ring",
+    "DESCRIPTIONS": [
+      "As you move through ~The~ ~City~ you come across a small #rRed #rRing laying on the floor. NL Would it be wise to pick it up?",
+      "As you place the ring on your finger, a red aura envelops you. You feel as if you're tied up, but there's nothing on you.",
+      "Best not to play with fate."
+    ],
+    "OPTIONS": [
+      "[CONFIDENCE] #rPick #rup #rthe #rRed #rRing.",
+      "[COWARDICE] #gLeave #gthe #gring.",
+      "Leave."
+    ]
+  },
+  "tisCardPack:AbandonedLab": {
+    "NAME": "Abandoned Laboratory",
+    "DESCRIPTIONS": [
+      "As you move through ~The~ ~City~ you come across a small room that seems to contain some abandoned lab equipment. On one of the stands you find a small empty blood vial connected to a needle. Next to it is a chamber of sorts, but it appears to be inactive.",
+      "As you move through ~The~ ~City~ you come across a small room that seems to contain some abandoned lab equipment. On one of the stands you find a small blood vial connected to a needle. The blood vial appears to be full, and is now draining into a chamber of sorts.",
+      "As you touch the needle with your finger, it draws a small amount of blood. The chamber nearby lights up and seems to be working properly, but you should not risk it.",
+      "As you wonder what to do, [*playerName*] steps ahead and places their finger on the needle. ",
+      "The chamber suddenly becomes active, with an inviting light glowing inside.",
+      "The already active chamber seems to change the light color inside ever so slightly.",
+      "You step into the chamber confidently, as its doors slam shut behind you. The once inviting light now becomes bright red, and you feel your consciousness fade away. NL NL As you wake up, you notice that the doors to the machine are now open. You don't know what happened, but living feels... different.",
+      "As you wonder what to do, [*playerName*] steps into the chamber in front of you. Its doors suddenly slam shut, and the light inside becomes red. You see your ally struggle to stay awake until they can't anymore. No matter how much you try, the doors of the chamber are sealed shut and they don't seem to be budging. Suddenly, their body starts distorting into something new. Once [*oldPlayerCharacter*], [*playerName*] now became [*newPlayerCharacter*]. The doors of the chamber open, and they run off into the darkness of the Spire."
+    ],
+    "OPTIONS": [
+      "[Investigate] Touch the needle with your finger.",
+      "[Experiment] Enter the chamber.",
+      "[Leave]"
+    ]
+  },
+  "tisCardPack:BurningWood": {
+    "NAME": "Burning Wood",
+    "DESCRIPTIONS": [
+      "While going through the darkness of the Spire, you notice a faint light in the distance. As you get closer, you can recognise what appears to be a tree stump, with a naturally formed face on it. Inside of it is a small flame, illuminating the stump.",
+      "While going through the darkness of the Spire, you notice a strong light in the distance. As you get closer, you can recognise what appears to be a tree stump, with a naturally formed face on it. Gushing out of it is a strong flame, almost burning the entire face of the stump.",
+      "While going through the darkness of the Spire, you notice weird shape in the distance. As you get closer, you can recognise what appears to be a tree stump, with a naturally formed face on it. Its insides are charred, but the flames that burnt it are long gone.",
+      "[*playerName*] decides to ignore the burning wood and leaves. You notice the flames grow brighter.",
+      "[*playerName*] decides to ignore the burning wood and leaves. The already bright flames now consume the entire face of the stump.",
+      "You decide to ignore the stump and proceed.",
+      "[*playerName*] steps forward and puts their hand in the tree stump, grabbing the flame inside. ",
+      "As they pull their hand out, you see some rewards in their hands. ",
+      "As they pull their hand out, you see the flame now frozen, as if made out of gold. ",
+      "The stump's glow is gone, and it is now dead.",
+      "You step forward and put your hand in the tree stump, grabbing the flame inside. As you pull your hand out, you notice something in it."
+    ],
+    "OPTIONS": [
+      "[Claim] Grab the flame with your hand",
+      "[Ignore]",
+      "[Leave]",
+      "[Rewards?]"
+    ]
+  },
+  "tisCardPack:Friend": {
+    "NAME": "The Lonely Robot",
+    "DESCRIPTIONS": [
+      "While walking, you come across a worn down, broken robot. It seems to be almost dead, but as soon as it spots you it's eyes perk up and it approaches you. \"Friend?\" the robot asks, while extending it's arms and giving you a pile of dirt with a blue flower firmly growing from it.",
+      "While walking, you come across remains of what appears to once have been a blue robot. You don't know how long it's been dead, but the Spire has already started consuming it.",
+      "While walking, you come across [*playerName*] in the company of a worn down, broken robot. It seems to be almost dead, but its face shows immense happiness from having company. It appears to be telling [*playerName*] something, but neither you or they can understand it.",
+      "The robot makes a happy sound as you take the flower and starts talking fast in a language you can't understand. Even though it knows you can't understand it, it's happy to have someone nonetheless. However, its battery core doesn't appear to be functional, and won't last very long.",
+      "As you start to walk away from the robot, it tries to catch up with you to get you to stay. However, you continue ignoring it and leave.",
+      "[*playerName*] steps forward and takes the flower from the robot. The robot seems to be super happy, and starts babbling in a language you can't really understand. However, the battery core of the robot is damaged, so you know the robot doesn't have much time left.",
+      "[*playerName*] decides to leave the robot. The robot, confused at first, tries to follow them, but gets ignored. After [*playerName*] leaves, the robot bows its head sadly and goes to a darker corner of the room. Its battery core seems to give up, and the once happy robot now becomes inactive, with the Spire quickly consuming it.",
+      "The robot's speech suddenly slows down, as it starts to glitch. Vines of the Spire slowly start to grow around it, and even though you try to stop it, they are consuming the robot too quickly. The core of the robot gives up, and the robot takes one last look before breaking down on the floor. Next to it a shiny item appears, and you come closer to examine it.",
+      "The robot's speech suddenly slows down, as it starts to glitch. Vines of the Spire slowly start to grow around it, and even though you try to stop it, they are consuming the robot too quickly. The core of the robot gives up, and the robot takes one last look at [*playerName*] before breaking down on the floor. Next to it a shiny item appears, and [*playerName*]] comes closer to examine it.",
+      "The robot is now almost fully surrounded by the Spire."
+    ],
+    "OPTIONS": [
+      "[Friend!] Take the flower",
+      "[Ignore]",
+      "[Leave]",
+      "[Friend?] Leave the robot",
+      "[A happy end?] Examine the item"
+    ]
+  }
+}

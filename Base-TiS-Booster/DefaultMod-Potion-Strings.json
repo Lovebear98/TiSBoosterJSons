@@ -1,0 +1,10 @@
+{
+        "tisCardPack:PlaceholderPotion": {
+                "NAME": "Placeholder Potion",
+                "DESCRIPTIONS": ["Gain ", " At the end of your turn, lose ", " Strength."]
+        },
+        "tisCardPack:ResurrectPotion": {
+                "NAME": "Resurrect Potion",
+                "DESCRIPTIONS": ["Resurrect a single dead ally."]
+        }
+}

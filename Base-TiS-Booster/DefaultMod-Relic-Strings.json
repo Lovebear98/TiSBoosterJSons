@@ -1,0 +1,247 @@
+{
+  "tisCardPack:PhasedBurningBlood": {
+    "NAME": "Phased Burning Blood",
+    "FLAVOR": "The rage spreads.",
+    "DESCRIPTIONS": [
+      "[#0000ff]Global.Replaces #rBurning #rBlood. At the end of combat, heal 3 HP."
+    ]
+  },
+  "tisCardPack:PhasedRingOfTheSnake": {
+    "NAME": "Phased Ring of the Snake",
+    "FLAVOR": "The ring for all those worthy.",
+    "DESCRIPTIONS": [
+      "[#0000ff]Global. Replaces #gRing #gof #gthe #gSnake. Every second turn draw an extra card."
+    ]
+  },
+  "tisCardPack:PhasedCrackedCore": {
+    "NAME": "Phased Cracked Core",
+    "FLAVOR": "Embrace the night.",
+    "DESCRIPTIONS": [
+      "[#0000ff]Global. Replaces #bCracked #bCore. Channel 1 Dark at the start of each combat."
+    ]
+  },
+  "tisCardPack:PhasedPureWater": {
+    "NAME": "Phased Pure Water",
+    "FLAVOR": "Enough for everyone.",
+    "DESCRIPTIONS": [
+      "[#0000ff]Global. Replaces #pPure #pWater. Add 1 #yMiracle to your hand on the second turn of every combat."
+    ]
+  },
+  "tisCardPack:WideShield": {
+    "NAME": "Wide Shield",
+    "FLAVOR": "A sturdy shield.",
+    "DESCRIPTIONS": [
+      "If #yTaunting an enemy, reduces the #yTaunt damage multiplier by half."
+    ]
+  },
+  "tisCardPack:ProtectiveRune": {
+    "NAME": "Protective Rune",
+    "FLAVOR": "Mens sana in corpore sano.",
+    "DESCRIPTIONS": [
+      "#yInsanity effect's chance is decreased from 3% to 1% per stack. #pCan #ponly #pspawn #pif #pthere's #pan #pally #pWatcher #ppresent."
+    ]
+  },
+  "tisCardPack:RunicEgg": {
+    "NAME": "Runic Egg",
+    "FLAVOR": "Act of transmutation.",
+    "DESCRIPTIONS": [
+      "Whenever you receive a card through trading, upgrade it."
+    ]
+  },
+  "tisCardPack:Paperwork": {
+    "NAME": "Paperwork",
+    "FLAVOR": "Got a permit for this?",
+    "DESCRIPTIONS": [
+      "You can now trade 2 times per rest site."
+    ]
+  },
+  "tisCardPack:ChaliceOfLife": {
+    "NAME": "Chalice Of Life",
+    "FLAVOR": "Unlimited health.",
+    "DESCRIPTIONS": [
+      "Revival is now a free action at Rest sites. When reviving an ally, heal them an additional 50% of their max HP."
+    ]
+  },
+  "tisCardPack:PartyBag": {
+    "NAME": "Party Bag",
+    "FLAVOR": "What's inside?",
+    "DESCRIPTIONS": [
+      "When you pick up this relic, give all your teammates 1 random shop relic."
+    ]
+  },
+  "tisCardPack:MagicalThorns": {
+    "NAME": "Magical Thorns",
+    "FLAVOR": "Player bound.",
+    "DESCRIPTIONS": [
+      "Gain 1 [E] at the start of your turn. You can no longer trade at rest sites."
+    ]
+  },
+  "tisCardPack:BoundRing": {
+    "NAME": "Blood-Bound Red Ring",
+    "FLAVOR": "Bound in blood.",
+    "DESCRIPTIONS": [
+      "If you're about to take lethal damage, forward it to the highest HP ally in the room that would survive it if they exist."
+    ]
+  },
+  "tisCardPack:InscribedMirror": {
+    "NAME": "Inscribed Mirror",
+    "FLAVOR": "Now would you look at that?",
+    "DESCRIPTIONS": [
+      "Upon pickup, select and obtain a copy of any ally's card."
+    ]
+  },
+  "tisCardPack:DrainingRing": {
+    "NAME": "Energy-Draining Yellow Ring",
+    "FLAVOR": "All-consuming power.",
+    "DESCRIPTIONS": [
+      "X cost cards now use up to 1 Energy from other players in the room."
+    ]
+  },
+  "tisCardPack:MagicDust": {
+    "NAME": "Shot Glasses",
+    "FLAVOR": "A toast to our victories.",
+    "DESCRIPTIONS": [
+      "Whenever you use a potion, a random ally in the room uses it as well."
+    ]
+  },
+  "tisCardPack:RepairChip": {
+    "NAME": "Medical Chip",
+    "FLAVOR": "Installing upgrade.",
+    "DESCRIPTIONS": [
+      "At the end of your turn, remove ALL your remaining [E] and heal a random ally for the amount of [E] removed."
+    ]
+  },
+  "tisCardPack:GoldRing": {
+    "NAME": "Gold-Plated Silver Ring",
+    "FLAVOR": "Collective funds.",
+    "DESCRIPTIONS": [
+      "Whenever an ally gains gold, store 10 gold in this relic. On right-click gain ALL gold stored and use up this relic."
+    ]
+  },
+  "tisCardPack:ParasiticGrowth": {
+    "NAME": "Parasitic Growth",
+    "FLAVOR": "That doesn't look healthy.",
+    "DESCRIPTIONS": [
+      "On death apply 3 Vulnerable and 3 Weak to all monsters, and deal damage equal to your max HP."
+    ]
+  },
+  "tisCardPack:UndeadBranch": {
+    "NAME": "Undead Branch",
+    "FLAVOR": "A second life.",
+    "DESCRIPTIONS": [
+      "The first ally exhausted card every turn is added to your hand and costs 0. Does not apply to Curse or Status cards."
+    ]
+  },
+  "tisCardPack:Alembic": {
+    "NAME": "Alembic",
+    "FLAVOR": "The art of alchemy.",
+    "DESCRIPTIONS": [
+      "If all allies end their turn with 0 energy, gain 1 energy at the start of your next turn."
+    ]
+  },
+  "tisCardPack:Watermelon": {
+    "NAME": "Watermelon",
+    "FLAVOR": "Grown in the cracks of the Spire",
+    "DESCRIPTIONS": [
+      "[#0000ff]Global. Gain 10 Max HP on pickup."
+    ]
+  },
+  "tisCardPack:BlackPearl": {
+    "NAME": "Black Pearl",
+    "FLAVOR": "It shines for the dead.",
+    "DESCRIPTIONS": [
+      "Upon reviving an ally, heal 10 HP and gain 50 gold."
+    ]
+  },
+  "tisCardPack:KleinBottle": {
+    "NAME": "Klein Bottle",
+    "FLAVOR": "Neverending flurry.",
+    "DESCRIPTIONS": [
+      "Whenever 40 cards are played by allies, deal 20 damage to all enemies."
+    ]
+  },
+  "tisCardPack:GoldenFlame": {
+    "NAME": "Golden Flame",
+    "FLAVOR": "Frozen in gold.",
+    "DESCRIPTIONS": [
+      "When a monster is spawned, apply #ytiscardpack:Golden_Flame to them."
+    ]
+  },
+  "tisCardPack:DefectivePowerCore": {
+    "NAME": "Defective Power Core",
+    "FLAVOR": "A nice reminder.",
+    "DESCRIPTIONS": [
+      "Whenever you enter a room, apply 1 #yStrength and 1 #yDexterity to all allies."
+    ]
+  },
+  "tisCardPack:ScoutsBadge": {
+    "NAME": "Scout's Badge",
+    "FLAVOR": "Be prepared.",
+    "DESCRIPTIONS": [
+      "If you're the first person to enter a combat, apply 2 weak to all enemies."
+    ]
+  },
+  "tisCardPack:GoldenCertificate": {
+    "NAME": "Gold Certificate",
+    "FLAVOR": "Perfection.",
+    "DESCRIPTIONS": [
+      "[#0000ff]Global. At the end of each combat add 75 Gold to your rewards. This amount is reduced whenever you or your allies lose HP by the amount of HP lost."
+    ]
+  },
+  "tisCardPack:ScalesOfFate": {
+    "NAME": "Scales of Fate",
+    "FLAVOR": "Universal balance.",
+    "DESCRIPTIONS": [
+      "Increase all buffs and decrease all debuffs received from allies by 1."
+    ]
+  },
+  "tisCardPack:BackupBattery": {
+    "NAME": "Backup Battery",
+    "FLAVOR": "Just in case.",
+    "DESCRIPTIONS": [
+      "First time you lose [E] because of your allies each turn, gain [E] ."
+    ]
+  },
+  "tisCardPack:RedSpeaker": {
+    "NAME": "Red Speaker",
+    "FLAVOR": "Might not be a good choice.",
+    "DESCRIPTIONS": [
+      "Once per combat, typing 'Look at me' in the chat will Taunt ALL enemies for one turn."
+    ]
+  },
+  "tisCardPack:KeyOfHecate": {
+    "NAME": "Hecate's Key",
+    "FLAVOR": "A look into the mystic arts.",
+    "DESCRIPTIONS": [
+      "If dead, replace your current deck with a ghost deck. You can play 3 cards from that deck each turn."
+    ]
+  },
+  "tisCardPack:MutualRespect": {
+    "NAME": "Mutual Respect",
+    "FLAVOR": "Is that a Gunfire Reborn reference???",
+    "DESCRIPTIONS": [
+      "At the start of each combat gain 1 Strength, 1 Dexterity, and 1 Focus for every connected ally that has this relic."
+    ]
+  },
+  "tisCardPack:AscendersRage": {
+    "NAME": "Ascender's Rage",
+    "FLAVOR": "An infinite battle.",
+    "DESCRIPTIONS": [
+      "Every time you're resurrected, lose 10 MAX HP and permanently gain 3 Strength, 3 Dexterity, and 3 Focus."
+    ]
+  },
+  "tisCardPack:MysteriousGift": {
+    "NAME": "Mystery Gift",
+    "FLAVOR": "I wonder what's inside.",
+    "DESCRIPTIONS": [
+      "Upon Trading, this becomes a random Rare relic."
+    ]
+  },
+  "tisCardPack:Skillbook": {
+    "NAME": "Skillbook",
+    "FLAVOR": "A variety of forms.",
+    "DESCRIPTIONS": [
+      "Whenever you play a card that is not of your player class, gain 2 Block."
+    ]
+  }
+}

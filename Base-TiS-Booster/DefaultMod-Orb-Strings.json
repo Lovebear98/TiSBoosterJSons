@@ -1,0 +1,11 @@
+{
+  "tisCardPack:PurifiedOrb": {
+    "NAME": "Purified Dark Orb",
+    "DESCRIPTION": [
+      "#yPassive: At the end of this turn, increase this Orb's Heal by #b",
+      " and remove 1 Debuff from ALL allies.",
+      " NL #yEvoke: Heal all allies for #b",
+      " HP and apply #y1 Artifact to them."
+    ]
+  }
+}

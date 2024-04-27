@@ -1,0 +1,276 @@
+{
+  "tisCardPack:Rally": {
+    "NAME": "Rally",
+    "DESCRIPTION": "Give ALL allies !M! Strength."
+  },
+  "tisCardPack:OffensiveTactics": {
+    "NAME": "Offensive Tactics",
+    "DESCRIPTION": "Remove Block from ALL players. Deal damage equal to !M! times the Block removed.",
+    "UPGRADE_DESCRIPTION": " (Total !D! damage.)"
+  },
+  "tisCardPack:Provoke": {
+    "NAME": "Provoke",
+    "DESCRIPTION": "Gain !B! block. Apply !M! tiscardpack:Taunt."
+  },
+  "tisCardPack:RelayBaton": {
+    "NAME": "Relay Baton",
+    "DESCRIPTION": "Deal !D! damage. Each time this card is traded, gain !M! damage.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. Each time this card is traded, gain !M! damage."
+  },
+  "tisCardPack:QuickJabs": {
+    "NAME": "Quick Jabs",
+    "DESCRIPTION": "Deal !D! damage !M! times to all enemies. Apply 1 taunt per hit. Gain !B! Block per each enemy hit."
+  },
+  "tisCardPack:BloodPact": {
+    "NAME": "Blood Pact",
+    "DESCRIPTION": "Whenever you lose HP, heal all allies by 1 HP."
+  },
+  "tisCardPack:Reinforce": {
+    "NAME": "Reinforce",
+    "DESCRIPTION": "Apply !M! tiscardpack:Taunt. ALL allies lose their Block. Gain Block equal to that amount."
+  },
+  "tisCardPack:ControlledFlame": {
+    "NAME": "Controlled Flame",
+    "DESCRIPTION": "ALL allies tiscardpack:Transfer up to !M! chosen cards from their hand, and receive a random card for each card they tiscardpack:Transferred. The cards are Exhausted upon tiscardpack:Transferring."
+  },
+  "tisCardPack:ExtendingGrasp": {
+    "NAME": "Extending Grasp",
+    "DESCRIPTION": "Select 1 card from ANY ally Exhaust pile. tiscardpack:Transfer it to your Hand. tiscardpack:Transfer this card to the player and Exhaust it."
+  },
+  "tisCardPack:Protection": {
+    "NAME": "Protection",
+    "DESCRIPTION": "Give !B! Block to a random ally.",
+    "UPGRADE_DESCRIPTION": "Give !B! Block to a selected ally."
+  },
+  "tisCardPack:Shield": {
+    "NAME": "Shield",
+    "DESCRIPTION": "Give ALL allies !B! Block."
+  },
+  "tisCardPack:SwiftBlow": {
+    "NAME": "Swift Blow",
+    "DESCRIPTION": "Deal !D! Damage. If played by a class other than an Ironclad, also apply !M! Vulnerable."
+  },
+  "tisCardPack:StrengthFromPain": {
+    "NAME": "Strength from Pain",
+    "DESCRIPTION": "Lose !M! HP. ALL allies gain Strength equal to HP lost. Exhaust."
+  },
+
+  "tisCardPack:Boomerang": {
+    "NAME": "Boomerang",
+    "DESCRIPTION": "Deal !D! damage. Increase this card's damage for !M! this turn and tiscardpack:Transfer it to a random player."
+  },
+  "tisCardPack:SmokeBomb": {
+    "NAME": "Evasive Dust",
+    "DESCRIPTION": "Give ALL allies !M! Dexterity for this turn."
+  },
+  "tisCardPack:GroupPlans": {
+    "NAME": "Group Plans",
+    "DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, ALL allies gain [G] and draw !M! card.",
+    "UPGRADE_DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, ALL allies gain [G] [G] and draw !M! cards."
+  },
+  "tisCardPack:Neurotoxin": {
+    "NAME": "Neurotoxin",
+    "DESCRIPTION": "Give EVERYONE block equal to the divided amount of enemy poison."
+  },
+  "tisCardPack:Bombard": {
+    "NAME": "Bombard",
+    "DESCRIPTION": "ALL allies discard their hand. Allies deal !M! damage for each card discarded."
+  },
+  "tisCardPack:GoldenShiv": {
+    "NAME": "Golden Shiv",
+    "DESCRIPTION": "Deal !D! damage. !M!% chance to Exhaust. Otherwise, increase the chance to Exhaust by 10% and tiscardpack:Transfer it to a random Ally.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. !M!% chance to Exhaust. Otherwise, increase the chance to Exhaust by 5% and tiscardpack:Transfer it to a random Ally."
+  },
+  "tisCardPack:Copycat": {
+    "NAME": "Copycat",
+    "DESCRIPTION": "Copy the next ally played card. Exhaust.",
+    "UPGRADE_DESCRIPTION": "Copy the next !M! ally played cards. Exhaust."
+  },
+  "tisCardPack:QuickDraw": {
+    "NAME": "Quick Draw",
+    "DESCRIPTION": "ALL allies draw a card."
+  },
+  "tisCardPack:SplashPotion": {
+    "NAME": "Splash Potion",
+    "DESCRIPTION": "Apply !M! Poison to ALL enemies and 3 Poison to ALL allies and yourself."
+  },
+  "tisCardPack:Antidote": {
+    "NAME": "Antidote",
+    "DESCRIPTION": "Remove ALL Poison from ALL allies and heal them for the same amount. Exhaust.",
+    "UPGRADE_DESCRIPTION": "Remove ALL Poison from ALL allies and heal them for the same amount. Retain. Exhaust."
+  },
+  "tisCardPack:SelectDraw": {
+    "NAME": "Select Draw",
+    "DESCRIPTION": "Whenever an ally manually discards a card, draw a card.",
+    "UPGRADE_DESCRIPTION": "Innate. "
+  },
+  "tisCardPack:Scrapper": {
+    "NAME": "Scrapper",
+    "DESCRIPTION": "Whenever an ally manually discards a card, gain 1 *Shiv.",
+    "UPGRADE_DESCRIPTION": "Whenever an ally manually discards a card, gain 1 *Shiv *+."
+  },
+  "tisCardPack:CausticDagger": {
+    "NAME": "Caustic Dagger",
+    "DESCRIPTION": "Deal !D! Damage. If played by a class other than The Silent, also apply !M! Poison."
+  },
+
+  "tisCardPack:Cryogenetics": {
+    "NAME": "Cryogenics",
+    "DESCRIPTION": "Frost orbs now also apply block to all teammates. Channel !M! Frost."
+  },
+  "tisCardPack:Replicate": {
+    "NAME": "Replicate",
+    "DESCRIPTION": "Next skill you play this turn will play for each ally in the room as well.",
+    "UPGRADE_DESCRIPTION": "Next !M! skills you play this turn will play for each ally in the room as well."
+  },
+  "tisCardPack:TimeBomb": {
+    "NAME": "Time Bomb",
+    "DESCRIPTION": "tiscardpack:Construct 1 Dark Orb at the selected ally. Place a *Detonate in a teammate's discard pile. Exhaust."
+  },
+  "tisCardPack:Detonate": {
+    "NAME": "Detonate",
+    "DESCRIPTION": "Evoke all your Dark orbs. Exhaust."
+  },
+  "tisCardPack:SpareBattery": {
+    "NAME": "Spare Battery",
+    "DESCRIPTION": "tiscardpack:Construct !M! Plasma at the selected ally."
+  },
+  "tisCardPack:DrainSystems": {
+    "NAME": "Drain Systems",
+    "DESCRIPTION": "All allies lose 1 [E]. Channel Lightning equal to !M! times the consumed [E] ."
+  },
+  "tisCardPack:PowerSource": {
+    "NAME": "Power Source",
+    "DESCRIPTION": "Give all players !M! energy."
+  },
+  "tisCardPack:Stasis": {
+    "NAME": "Stasis",
+    "DESCRIPTION": "ALL allies can't take damage or play cards this turn. Exhaust."
+  },
+  "tisCardPack:FaultySensors": {
+    "NAME": "Faulty Sensors",
+    "DESCRIPTION": "Reduce the Strength of ALL enemies by !M! and ALL allies by 1. Exhaust"
+  },
+  "tisCardPack:Purify": {
+    "NAME": "Purify",
+    "DESCRIPTION": "Convert ALL current and future Dark orbs into Purified Dark orbs.",
+    "UPGRADE_DESCRIPTION": "Innate. "
+  },
+  "tisCardPack:Clawed": {
+    "NAME": "Clawed",
+    "DESCRIPTION": "Each ally played Claw counts towards your Claw damage as well.",
+    "UPGRADE_DESCRIPTION": "Add 3 Claws randomly to your ally draw piles."
+  },
+  "tisCardPack:PrototypeExperiment": {
+    "NAME": "Prototype Experiment",
+    "DESCRIPTION": "Deal !D! Damage. If played by a class other than a Defect, gain !M! Focus and channel a random Orb."
+  },
+  "tisCardPack:RepairMechanism": {
+    "NAME": "Repair Mechanism",
+    "DESCRIPTION": "At end of combat, ALL allies heal !M! HP."
+  },
+  "tisCardPack:CoreDuplicate": {
+    "NAME": "Core Duplicate",
+    "DESCRIPTION": "Select any Ally power card and add a copy of it to your hand. Exhaust.",
+    "UPGRADE_DESCRIPTION": "Select any Ally power card and add a 0-cost copy of it to your hand. Exhaust."
+  },
+
+  "tisCardPack:Virulence": {
+    "NAME": "Act of Destruction",
+    "DESCRIPTION": "Make ALL allies go into Wrath."
+  },
+  "tisCardPack:Nerveless": {
+    "NAME": "Act of Creation",
+    "DESCRIPTION": "Make ALL allies go into Calm."
+  },
+  "tisCardPack:BlindFaith": {
+    "NAME": "Blind Faith",
+    "DESCRIPTION": "Put ALL allies into Divinity until the end of the turn. Put a *Broken *Faith in ALL allies hand. Exhaust.",
+    "UPGRADE_DESCRIPTION": "Put ALL allies into Divinity until the end of the turn. Put a *Broken *Faith in ALL allies draw pile. Exhaust."
+  },
+  "tisCardPack:Clairvoyance": {
+    "NAME": "Clairvoyance",
+    "DESCRIPTION": "ALL allies Scry !M!."
+  },
+  "tisCardPack:DivineResurrection": {
+    "NAME": "Divine Resurrection",
+    "DESCRIPTION": "Revive ALL dead allies in the room to 1 HP. Apply tiscardpack:Doomed and tiscardpack:Spirit_Bind to them.",
+    "UPGRADE_DESCRIPTION": "Revive ALL dead allies in the room to 1 HP. Apply tiscardpack:Doomed, tiscardpack:Spirit_Bind, and Buffer to them."
+  },
+  "tisCardPack:Cleanse": {
+    "NAME": "Cleanse",
+    "DESCRIPTION": "Remove tiscardpack:Insanity from ALL allies and gain Mantra equal to the removed amount. Give ALL allies 1 Artifact if you enter Divinity. Exhaust.",
+    "UPGRADE_DESCRIPTION": "Remove tiscardpack:Insanity from ALL allies and gain Mantra equal to the removed amount. Give ALL allies 1 Artifact if you enter Divinity."
+  },
+  "tisCardPack:Sanctify": {
+    "NAME": "Sanctify",
+    "DESCRIPTION": "Whenever you gain Mantra, ALL allies gain 1 Mantra. Does not stack."
+  },
+  "tisCardPack:SacredGrounds": {
+    "NAME": "Sacred Ground",
+    "DESCRIPTION": "Whenever an ally gains tiscardpack:Insanity, gain 1 [E]."
+  },
+  "tisCardPack:Mania": {
+    "NAME": "Mania",
+    "DESCRIPTION": "Whenever an ally takes unblocked damage, they gain 1 Strength and 1 tiscardpack:Insanity."
+  },
+  "tisCardPack:Recite": {
+    "NAME": "Recite",
+    "DESCRIPTION": "Gain !M! Mantra. ALL allies gain 1 tiscardpack:Insanity."
+  },
+  "tisCardPack:MassHysteria": {
+    "NAME": "Mass Hysteria",
+    "DESCRIPTION": "ALL Allies enter Wrath, gain 10 tiscardpack:Insanity, discard ALL their non Attack cards.",
+    "UPGRADE_DESCRIPTION": "ALL Allies enter Wrath, gain 10 tiscardpack:Insanity, discard ALL their non Attack cards, and gain 2 [E]."
+  },
+  "tisCardPack:BrokenStature": {
+    "NAME": "Broken Stature",
+    "DESCRIPTION": "Add *Weak *Point to the draw pile of ALL allies.",
+    "UPGRADE_DESCRIPTION": "Add *Weak *Point *+ to the draw pile of ALL allies."
+  },
+  "tisCardPack:WeakPoint": {
+    "NAME": "Weak Point",
+    "DESCRIPTION": "Apply !M! Mark to an enemy. ALL enemies lose HP equal to their Mark.",
+    "UPGRADE_DESCRIPTION": "Apply !M! Marks to an enemy. ALL enemies lose HP equal to their Mark."
+  },
+  "tisCardPack:Conviction": {
+    "NAME": "Conviction",
+    "DESCRIPTION": "Deal !D! Damage. If played by a class other than the Watcher, gain !M! Mantra."
+  },
+
+  "tisCardPack:GroupCharge": {
+    "NAME": "Group Charge",
+    "DESCRIPTION": "Shuffle 1 *Full *Charge into the draw pile of all players in the room. Exhaust.",
+    "UPGRADE_DESCRIPTION": "Innate. "
+  },
+  "tisCardPack:FullCharge": {
+    "NAME": "Full Charge",
+    "DESCRIPTION": "Gain tiscardpack:Full_Charge. Exhaust."
+  },
+  "tisCardPack:BlankCard": {
+    "NAME": "Blank Card",
+    "DESCRIPTION": "Obtain a copy of a random highest rarity card from the deck of ALL your allies. Play it and Exhaust it after. Exhaust.",
+    "UPGRADE_DESCRIPTION": "Obtain a copy of a random highest rarity card from the deck of ALL your allies and upgrade it. Play it and Exhaust it after. Exhaust."
+  },
+
+  "tisCardPack:TouchOfTheSpire": {
+    "NAME": "Touch of the Spire",
+    "DESCRIPTION": "Whenever you draw this card gain 1 tiscardpack:Insanity. Unplayable."
+  },
+  "tisCardPack:BrokenFaith": {
+    "NAME": "Broken Faith",
+    "DESCRIPTION": "Whenever you play a card with this card in hand gain 1 tiscardpack:Insanity. Unplayable."
+  },
+  "tisCardPack:Infection": {
+    "NAME": "Infection",
+    "DESCRIPTION": "Whenever you draw this card, put a copy of it in a random player's discard pile. Unplayable."
+  },
+  "tisCardPack:OldMaid": {
+    "NAME": "Hot Potato",
+    "DESCRIPTION": "When Discarded, permanently tiscardpack:Transfer this card to a random player. If you end the combat with this curse in your deck lose 5 HP. Unplayable."
+  },
+  "tisCardPack:Distrust": {
+    "NAME": "Distrust",
+    "DESCRIPTION": "Whenever you draw this card a random ally gains 1 Frail and 1 Weak. Unplayable."
+  }
+}
